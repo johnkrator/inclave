@@ -224,6 +224,10 @@ a {
         display: block;
     }
 
+    .navbar-toggle > i {
+        font-size: 40px;
+    }
+
     .navbar-links.active {
         display: flex;
         flex-direction: column;
